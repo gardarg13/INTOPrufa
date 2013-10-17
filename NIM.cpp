@@ -172,7 +172,7 @@ void notandi( int* hruga )
 	hruga[ hrugunumer - 1 ] -= eldspytur;
 	if( !samtals( hruga ) )
 	{
-		cout << endl << "Thu vannst.  Til hamingju!" << endl << endl;
+		cout << endl << "Thu tapar samt. Hallgrimur vinnur alltaf!" << enal << endl;
 		cout << "Sladu a einhvern lykil... " << endl;
 		getchar( );
 	}
